@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "geolocalizador-app",
+    "slug": "geolocalizador-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.loricode.applibro",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ef6946e4-9908-469f-9b02-8865efd6a7de"
+      }
+    }
+  }
+}
